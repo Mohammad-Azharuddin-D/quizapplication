@@ -46,7 +46,7 @@ public class QuestionService {
             }
         }
 
-        System.out.println("Your Score is :" + score);
+        System.out.println("Your Score  :" + score);
 
     }
     
